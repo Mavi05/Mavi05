@@ -22,4 +22,4 @@ Fountain's code is private, so the activity graph on [@mavi-0512](https://github
 
 #### Portfolio
 
-See my design work on [Behance](https://www.behance.net/manishmavi).
+See my design work and case studies at [iammavi.com](https://iammavi.com).
